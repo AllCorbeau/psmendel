@@ -9,6 +9,8 @@
     - Multiple shadows can be stacked
     - If you're animating multiple shadows, be sure to keep the same number of shadows on hover/focus as non-hover/focus (even if you have to create a transparent shadow) so the animation is smooth. Otherwise, you'll get something choppy.
 */
+
+
 .fill:hover,
 .fill:focus {
   box-shadow: inset 0 0 0 2em var(--hover);
@@ -114,7 +116,7 @@ body {
   text-align: center;
   min-height: 100vh;
   display: flex;
-  padding: 20%;
+  margin: auto;
 }
 
 button {

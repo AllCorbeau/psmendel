@@ -115,7 +115,7 @@ button:hover, button:focus {
 body {
   color: whitesmoke;
   background: #17181c;
-  max-width: 900px;
+  max-width: 300px;
 	margin: auto;
   font: 300 1em "Fira Sans", sans-serif;
   justify-content: center;
@@ -124,7 +124,8 @@ body {
   text-align: center;
   min-height: 100vh;
   display: flex;
-  padding: 10%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 button {
