@@ -124,6 +124,7 @@ body {
   text-align: center;
   min-height: 100vh;
   display: flex;
+  padding: 15px;
 }
 
 button {
@@ -152,3 +153,4 @@ code {
     width: 256px;
   }
 }
+
