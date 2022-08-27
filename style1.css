@@ -124,9 +124,6 @@ body {
   text-align: center;
   min-height: 100vh;
   display: flex;
-  padding: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
 }
 
 button {
@@ -146,13 +143,3 @@ code {
   color: #e4cb58;
   font: inherit;
 }
-
-@media screen and (max-width: 600px){
-
-  .photo{
-    border-radius: 50px;
-    border: 1px solid #505050;
-    width: 384px;
-  }
-}
-

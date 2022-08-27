@@ -114,8 +114,6 @@ body {
   text-align: center;
   min-height: 100vh;
   display: flex;
-  margin-right: 10px;
-  margin-left: 10px;
 }
 
 button {
