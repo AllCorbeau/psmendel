@@ -125,6 +125,8 @@ body {
   min-height: 100vh;
   display: flex;
   padding: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 button {
